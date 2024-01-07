@@ -44,9 +44,4 @@ More features to be implemented:
 - Some aditional options via CLI to change directories.
 - Recursive organizing, to manage inner files.
 
-  
 
-_____________________________________________________
-
-#### About:
-Its a simple script intended for educational purpouses only. feel free to make any changes.
