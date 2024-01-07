@@ -1,5 +1,4 @@
 # SIMPLE FILE ORGANIZER
-#### Video Demo:  <https://youtu.be/8B8m4YeU5sE>
 
 #### Description:
 A simple file organizer in python. It will place files inside folders for better organization
